@@ -1,2 +1,2 @@
-# CS76-Work
-Collection of code written for the CS76 Course
+# Artificial Intelligence Work
+Collection of code written for the CS76: Artificial Intelligence Course
